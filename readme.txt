@@ -12,3 +12,5 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 
 Git test off fast forward.
+
+This is a bug.
